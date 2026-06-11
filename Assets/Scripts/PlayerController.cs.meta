@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e455e18c68663ad4687a165c43e38e3b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HyogoPrefab: {fileID: 2942192401264717686, guid: 5220a3223d18b9844964f85ac89a535a, type: 3}
+  - OsakaPrefab: {fileID: 5246658646618260763, guid: b48ac12422e17b4458c6e1aa85bd2a88, type: 3}
+  - KyotoPrefab: {fileID: 5892246240973535518, guid: caf9c20fe091ad844ab7073a8bbbaf09, type: 3}
+  - NaraPrefab: {fileID: 9048301042815197759, guid: 680bd56ba6a7539468283e36f6094bd1, type: 3}
+  - ShigaPrefab: {fileID: 6645099396353477293, guid: eb314abad350c8144bb6208b82f6d7aa, type: 3}
+  - WakayamaPrefab: {fileID: 4176658927591350063, guid: ba805089c6c182841895b1cdac1f4dd0, type: 3}
+  - MiePrefab: {fileID: 4577590109346721926, guid: 32258a69518168a478e2068381e9b58c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
