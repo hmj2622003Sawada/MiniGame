@@ -15,13 +15,12 @@ public class Ken : MonoBehaviour
 	[SerializeField] GameObject[] kenPrefabs;
 
 	bool check = false;
-	bool hitcheck = false;
+	
 	PolygonCollider2D polygonCollider;
 
 
 	private void OnTriggerEnter2D(Collider2D collision)
 	{
-		hitcheck = true;
 	}
 
 	private void Update()
@@ -69,10 +68,10 @@ public class Ken : MonoBehaviour
 			
 
 		}
-		if (Keyboard.current.enterKey.wasPressedThisFrame && hitcheck == true)
+		if (Keyboard.current.enterKey.wasPressedThisFrame && check == true )
 		{
 			check = false;
-			hitcheck = false;
+		
 		}
 	}
 }

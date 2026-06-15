@@ -478,8 +478,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u64CD\u4F5C\u8AAC\u660E\n\nA\u30AD\u30FC\uFF1A\u5DE6\u306B\u79FB\u52D5\nD\u30AD\u30FC\uFF1A\u53F3\u306B\u79FB\u52D5\n\u2190\u30AD\u30FC\uFF1A\u53CD\u6642\u8A08\u56DE\u308A\u306B\u56DE\u8EE2\n\u2192\u30AD\u30FC\uFF1A\u6642\u8A08\u56DE\u308A\u306B\u56DE\u8EE2\n\u30B9\u30DA\u30FC\u30B9\u30AD\u30FC\uFF1A\u90FD\u9053\u5E9C\u770C\u3092\u51FA\u73FE\n\u30A8\u30F3\u30BF\u30FC\u30AD\u30FC\uFF1A\u90FD\u9053\u5E9C\u770C\u3092\u843D\u4E0B\n\nS\u30AD\u30FC\u3092\u62BC\u3059\u3068\u30B2\u30FC\u30E0\u753B\u9762\u306B\u79FB\u884C\u3057\u307E\u3059"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: eb6397629ef47c745921dc9493a9251c, type: 2}
-  m_sharedMaterial: {fileID: -3150638195591633368, guid: eb6397629ef47c745921dc9493a9251c, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 4417b3ca751ae064189a5071e0b9eb50, type: 2}
+  m_sharedMaterial: {fileID: 1232060496051783768, guid: 4417b3ca751ae064189a5071e0b9eb50, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
